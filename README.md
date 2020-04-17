@@ -8,3 +8,6 @@ I use this repository to make [this](https://github.com/atulapra/Emotion-detecti
 ## Run
 * I use jupyter notebook to implementaion this project. so you can easily run this project using jupyter notebook.
 * You can use any other IDE as you want.
+
+## Simple Image
+![Simple](simple.png)
